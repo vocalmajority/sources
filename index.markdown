@@ -8,3 +8,8 @@
 * <a href="https://lectureinprogress.com/journal/resources-for-supporting-black-lives-matter-movement">Resources for Supporting the Black Lives Matter Movement</a>
 * <a href="https://silenceiscompliance.info/">Silence is Compliance</a>
 * <a href="https://twitter.com/sdinwiddie_25/status/1268173302545231872?s=21">Spencer Dinwiddie Twitter Thread of Black-Owned Businesses</a>
+* <a href="https://www.atlantaeats.com/blog/29-black-owned-restaurants-in-atlanta/">Black-Owned Restaurants in Atlanta</a>
+* <a href="http://mspmag.com/arts-and-culture/black-owned-businesses-in-the-twin-cities/">Black-Owned Businesses in the Twin Cities</a>
+* <a href="https://docs.google.com/spreadsheets/d/1ExxjRyovIphjX_jtGep0cFQtUkJwqhTC4dLwy3h6uZY/edit#gid=1847215759">Black-Led Organizations in the Bay Area</a>
+
+
