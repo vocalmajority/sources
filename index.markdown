@@ -1,5 +1,7 @@
 Return to <a href="https://vocalmajority.github.io/about/">about</a>.
 
+*This list will be updated as new sources are used. Please submit a pull request on the [github repository](https://github.com/vocalmajority) for any sources not already used or included below that would be helpful to this page and movement.*
+
 ## Sources
 
 * <a href="https://www.adhoc.fm/post/black-lives-matter-resources-and-funds/">ADHOC</a>
