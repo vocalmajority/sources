@@ -5,3 +5,6 @@
 * <a href="https://bailfunds.github.io/">List of Bail Funds</a>
 * <a href="https://www.thecut.com/article/george-floyd-protests-how-to-help-where-to-donate.html">The Cut</a>
 * <a href="https://www.northstarhealthcollective.org/">North Star Health</a>
+* <a href="https://lectureinprogress.com/journal/resources-for-supporting-black-lives-matter-movement">Resources for Supporting the Black Lives Matter Movement</a>
+* <a href="https://silenceiscompliance.info/">Silence is Compliance</a>
+* <a href="https://twitter.com/sdinwiddie_25/status/1268173302545231872?s=21">Spencer Dinwiddie Twitter Thread of Black-Owned Businesses</a>
