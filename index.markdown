@@ -1,3 +1,5 @@
+Return to <a href="https://vocalmajority.github.io/about/">about</a>.
+
 ## Sources
 
 * <a href="https://www.adhoc.fm/post/black-lives-matter-resources-and-funds/">ADHOC</a>
